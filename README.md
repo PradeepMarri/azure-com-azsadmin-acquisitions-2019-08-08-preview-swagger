@@ -1,2 +1,32 @@
-# azure-com-azsadmin-acquisitions-2019-08-08-preview-swagger
-OpenAPI specification for azure.com API vazsadmin-acquisitions
+# azure.com API - Version azsadmin-acquisitions
+
+This repository contains the OpenAPI/Swagger specification for the azure.com API.
+
+## File Information
+
+- **Service**: azure.com
+- **Version**: azsadmin-acquisitions
+- **File**: swagger.yaml
+- **Original Path**: azure.com/azsadmin-acquisitions/2019-08-08-preview/swagger.yaml
+
+## Usage
+
+This YAML file contains the complete API specification that can be used with various tools:
+
+- **Swagger UI**: View and interact with the API
+- **Code Generation**: Generate client libraries and server stubs
+- **API Testing**: Test API endpoints
+- **Documentation**: Generate API documentation
+
+## Tools
+
+You can use this specification with:
+
+- [Swagger Editor](https://editor.swagger.io/)
+- [Swagger UI](https://swagger.io/tools/swagger-ui/)
+- [OpenAPI Generator](https://openapi-generator.tech/)
+- [Postman](https://www.postman.com/)
+
+---
+
+*Generated automatically by GitHub CLI Creator*
